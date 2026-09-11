@@ -10,6 +10,8 @@ links:
     url: "https://github.com/Irenaghart"
   - label: Email
     url: "mailto:ngharte2@jh.edu"
+  - label: Youtube
+    url: "https://youtu.be/IaBg6_1V8fE?is=IuQ8Pt-MiBtBqYX5"
 output:
   postcards::jolla
 ---
@@ -27,4 +29,3 @@ I love arts and cooking.
 
 # Cool Stuff
 I used to vlog and share on my youtube channel. Although it's been 4 years since I put anything on there, watching those videos back reminds about how beautiful life is and helps me deal with mental stress. 
-url: "https://youtu.be/IaBg6_1V8fE?is=IuQ8Pt-MiBtBqYX5"

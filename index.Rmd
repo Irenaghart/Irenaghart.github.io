@@ -19,6 +19,8 @@ I am a classically trained medical doctor from Ghana, now residing in Howard Cou
 Currently I am a full-time graduate student at Johns Hopkins Bloomberg School of Public Health. 
 I am interested in research that sits at the intersection of digital health and pediatrics.
 I have used stata in the past and have learned python but I never really worked with them so I all of this feels very new to me. I hope to gain confidence in using R by the end of this course.
+
+
 # Fun Facts
 I love talking about horror movies, and I play multiple sports for fun esp tennis and volleyball.
 I love arts and cooking. 

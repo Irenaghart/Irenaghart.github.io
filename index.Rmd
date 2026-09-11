@@ -1,6 +1,6 @@
 ---
 title: "Noreen Irena Ghartey "
-image: "Screenshot 2026-09-11 at 3.53.11 PM.png"
+image: "IMG_4106.jpeg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/noreen-ghartey-6909ab1b2/"

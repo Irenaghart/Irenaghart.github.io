@@ -27,14 +27,18 @@ favicon: "favicon.ico"
 ```
 
 ## About Me
-I am a trained medical doctor from Ghana, now residing in Columbia, MD.
-Currently I am a full-time graduate student at Johns Hopkins Bloomberg School of Public Health.
+I am a trained medical doctor from [Ghana](https://en.wikipedia.org/wiki/Ghana), now residing in Columbia, MD.
+Currently I am a full-time graduate student at [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/).
 I am interested in research that sits at the intersection of digital health and pediatrics.
-I have used stata in the past and have learned python but I never really worked with them so all of this feels very new to me. I hope to gain confidence in using R by the end of this course.
+I have used [Stata](https://www.stata.com/) in the past and have learned [Python](https://www.python.org/) but I never really worked with them so all of this feels very new to me. I hope to gain confidence in using [R](https://www.r-project.org/) by the end of this course.
 
 ## Fun Facts
-I love talking about horror movies, and I play multiple sports for fun esp tennis and volleyball.
+I love talking about horror movies, and I play multiple sports for fun — especially tennis and volleyball.
 I love arts and cooking.
 
 ## Cool Stuff
-I used to vlog and share on my youtube channel. Although it's been 4 years since I put anything on there, watching those videos back is so refreshing and often helps me deal with mental stress.
+I used to vlog and share on my [YouTube channel](https://youtu.be/IaBg6_1V8fE?is=IuQ8Pt-MiBtBqYX5).
+Although it's been 4 years since I put anything on there, watching those videos back is so refreshing and often helps me deal with mental stress.
+
+## Something I Find Inspiring
+As a physician with a strong interest in adolescent and maternal health, I find the work of the [Empower Her Initiative by Brazza International Foundation](https://www.brazzainternational.org/) especially inspiring because it recognizes that empowering adolescent mothers requires more than healthcare — it requires equipping them with knowledge, support, and opportunities to build healthier and more empowered futures.

@@ -14,5 +14,5 @@ links:
     url: "https://youtu.be/IaBg6_1V8fE?is=IuQ8Pt-MiBtBqYX5"
 output:
   postcards::jolla
-favicon: "favicon.png"
+favicon: "favicon.ico"
 ---
